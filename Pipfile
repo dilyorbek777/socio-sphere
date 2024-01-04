@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+pillow = "*"
+django-allauth = "*"
+dj-rest-auth = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+moviepy = "*"
+googletrans = "==4.0.0-rc1"
+translate = "*"
+py-translate = "*"
+pipenv = "*"
+install = "*"
+deep-translator = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
